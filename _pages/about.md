@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: I might find something inspiring to write here someday.
 
 profile:
   align: right

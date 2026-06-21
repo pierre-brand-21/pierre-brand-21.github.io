@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: at_kuba_4.jpg
+  image: yay.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bureau 725C1, MAP5, Université Paris-Cité</p>

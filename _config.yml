@@ -523,11 +523,11 @@ third_party_libraries:
     integrity:
       js:
         library: "sha256-QvgynZibb2U53SsVu98NggJXYqwRL7tg3FeyfXvPOUY="
-        dark_theme: "sha256-sm6Ui9w41++ZCWmIWDLC18a6ki72FQpWDiYTDxEPXwU="
+        dark_: "sha256-sm6Ui9w41++ZCWmIWDLC18a6ki72FQpWDiYTDxEPXwU="
     url:
       js:
         library: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/dist/echarts.min.js"
-        dark_theme: "https://cdn.jsdelivr.net/npm/echarts@{{version}}/theme/dark-fresh-cut.js"
+        dark_: "https://cdn.jsdelivr.net/npm/echarts@{{version}}//dark-fresh-cut.js"
     version: "5.5.0"
   google_fonts:
     url:

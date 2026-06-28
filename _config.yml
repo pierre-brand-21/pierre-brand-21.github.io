@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: pierre, brand, rogers-pitman, matsumoto-yor, jordan, algebra, symmetric, cone # add your own keywords or leave empty
 lang: fr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🐢 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icons8-turtle-emoji-96.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://pierre-brand-21.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
